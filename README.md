@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Vaibhav Kushwaha
-**A passionate Frontend Developer || MERN Stack Developer from India**
+**A passionate Frontend Developer || React Developer from India**
 
 Email Me 👉 ✉️ **kushwahavaibhav150@gmail.com**  
 For Collaboration / Projects or Internship Opportunities 😊
 
 - 🔭 **I’m currently working on:** Real-time Video Calling & Admin DashBoard Projects
 - 🌱 **I’m currently learning:** Advanced React, System Design, WebRTC
-- 👯 **I’m looking to collaborate on:** Frontend & Full-Stack Web Apps
+- 👯 **I’m looking to collaborate on:** Frontend & Web Apps
 - 🤔 **I’m looking for help with:** Scalable Architecture & Clean UI Design
 - 💬 **Ask me about:** React, JavaScript, Node.js, MongoDB
 - 📫 **How to reach me:** kushwahavaibhav150@gmail.com
