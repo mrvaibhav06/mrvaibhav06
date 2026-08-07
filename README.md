@@ -8,7 +8,7 @@ For Collaboration / Projects or Internship Opportunities 😊
 - 🌱 **I’m currently learning:** Advanced React, System Design, WebRTC
 - 👯 **I’m looking to collaborate on:** Frontend & Web Apps
 - 🤔 **I’m looking for help with:** Scalable Architecture & Clean UI Design
-- 💬 **Ask me about:** React, JavaScript, Node.js, MongoDB
+- 💬 **Ask me about:** React, JavaScript
 - 📫 **How to reach me:** kushwahavaibhav150@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I turn coffee into clean code ☕💻
